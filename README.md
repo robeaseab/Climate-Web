@@ -6,7 +6,7 @@ See my final product here: [Climate Web](https://robeaseab.github.io/Climate-Web
 
 The website contains 7 pages total, including:
 
-* A [landing page https://robeaseab.github.io/Climate-Web/) containing:
+* A [landing page](https://robeaseab.github.io/Climate-Web/) containing:
   * An explanation of the project.
   * Links to each visualizations page.
 * Four visualization pages ([temperature](https://robeaseab.github.io/Climate-Web/temp.html), [cloudiness](https://robeaseab.github.io/Climate-Web/cloud.html), [humidity](https://robeaseab.github.io/Climate-Web/humid.html), and [wind speed](https://robeaseab.github.io/Climate-Web/wind.html)), each with:
