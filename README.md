@@ -1,6 +1,6 @@
 # Climate-Web
 
-Using HTML and CSS, I created a dashboard to show off an analysis I completed in an earlier repo.  The earlier repo used Python requests, APIs, and JSON traversals to explore the link between weather patterns and latitude.  In building this dashboard, I created individual pages for each plot and a means by which the user can navigate between them. These pages will contained the visualizations and their corresponding explanations. I also included a landing page, a page to view a comparison of all of the plots, and another page to view the data used to build them.
+Using HTML and CSS, I created a dashboard to show off an analysis I completed in an [earlier repo](https://github.com/robeaseab/Precipitation-and-Climate-SQLAlchemy).  The earlier repo used Python requests, APIs, and JSON traversals to explore the link between weather patterns and latitude.  In building this dashboard, I created individual pages for each plot and a means by which the user can navigate between them. These pages contained the visualizations and their corresponding explanations. I also included a landing page, a page to view a comparison of all of the plots, and another page to view the data used to build them.
 
 See my final product here: [Climate Web](https://robeaseab.github.io/Climate-Web/index.html)
 
